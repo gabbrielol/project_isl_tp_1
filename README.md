@@ -4,3 +4,5 @@
 + Para compilar:
     + iverilog echo_testbench.v -o echo_testbench.vvp
     + vpp echo_testbench.vvp
++ Para implementar em FPGA:
+    + Intel Quartus
